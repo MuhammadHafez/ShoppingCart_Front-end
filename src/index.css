@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-button {
+  float: right;
+}
+
+.card-img-top{
+  height: 170px;
+  width: 100%;
+}
+
+
+.product-image {
+  width: 300px;
+  height:300px;
+  margin-left: 50px;
+}
+
+.StripeCheckout{
+  width: 500px;
+}
+
+.table-content{
+  font-weight: bold;
+}
